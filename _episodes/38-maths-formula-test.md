@@ -63,3 +63,5 @@ $$\begin{eqnarray}
 x' &=& &x \sin\phi &+& z \cos\phi \\
 z' &=& - &x \cos\phi &+& z \sin\phi \\
 \end{eqnarray}$$
+
+<math><mi>a</mi><mo>≠</mo><mn>0</mn></math>.
