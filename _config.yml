@@ -2,6 +2,7 @@
 # Values for this lesson.
 #------------------------------------------------------------
 
+markdown: maruku
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
 # swc: Software Carpentry
 # dc: Data Carpentry
