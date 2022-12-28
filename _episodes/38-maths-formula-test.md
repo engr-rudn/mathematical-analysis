@@ -8,7 +8,7 @@ usemathjax: true
 use_math: true
 
 ---
-
+$$E=mc^2$$
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
