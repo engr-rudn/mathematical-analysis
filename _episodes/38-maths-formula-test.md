@@ -4,8 +4,9 @@ title: "Test math"
 author: Teklay Tesfazghi
 category: misc
 tags: [test]
-use_math: true
 usemathjax: true
+use_math: true
+
 ---
 
 
