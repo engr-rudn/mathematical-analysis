@@ -1,14 +1,4 @@
 ---
-layout: post
-title: "Test math"
-author: Teklay Tesfazghi
-category: misc
-tags: [test]
-usemathjax: true
-use_math: true
-
----
----
 title: Python Fundamentals
 teaching: 20
 exercises: 10
@@ -26,6 +16,9 @@ keypoints:
 - "Variables are created on demand whenever a value is assigned to them."
 - "Use `print(something)` to display the value of `something`."
 - "Built-in functions are always available to use."
+usemathjax: true
+use_math: true
+{% include mathjax.html %}
 ---
 
 $$E=mc^2$$
