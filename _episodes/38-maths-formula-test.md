@@ -59,9 +59,9 @@ $a^2 + b^2 = c^2$
 
 $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
 
-$$\begin{eqnarray}
+
+
+<math>$$\begin{eqnarray}
 x' &=& &x \sin\phi &+& z \cos\phi \\
 z' &=& - &x \cos\phi &+& z \sin\phi \\
-\end{eqnarray}$$
-
-<math><mi>a</mi><mo>≠</mo><mn>0</mn></math>.
+\end{eqnarray}$$</math>.
