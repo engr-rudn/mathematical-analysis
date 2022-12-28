@@ -8,6 +8,26 @@ usemathjax: true
 use_math: true
 
 ---
+---
+title: Python Fundamentals
+teaching: 20
+exercises: 10
+questions:
+- "What basic data types can I work with in Python?"
+- "How can I create a new variable in Python?"
+- "How do I use a function?"
+- "Can I change the value associated with a variable after I create it?"
+- 
+objectives:
+- "Assign values to variables."
+keypoints:
+- "Basic data types in Python include integers, strings, and floating-point numbers."
+- "Use `variable = value` to assign a value to a variable in order to record it in memory."
+- "Variables are created on demand whenever a value is assigned to them."
+- "Use `print(something)` to display the value of `something`."
+- "Built-in functions are always available to use."
+---
+
 $$E=mc^2$$
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
