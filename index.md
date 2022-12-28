@@ -2,8 +2,9 @@
 layout: lesson
 root: .
 permalink: index.html
+tags: [MathJax, Mathematic]
+mathjax: true
 ---
-
 
 ### Mathematical Analysis
 
