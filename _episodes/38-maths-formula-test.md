@@ -20,6 +20,9 @@ usemathjax: true
 use_math: true
 {% include mathjax.html %}
 ---
+$$
+K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
+$$
 
 $$E=mc^2$$
 
