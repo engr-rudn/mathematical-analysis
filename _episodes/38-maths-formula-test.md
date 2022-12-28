@@ -5,8 +5,9 @@ author: Teklay Tesfazghi
 category: misc
 tags: [test]
 use_math: true
----
 usemathjax: true
+---
+
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
